@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section .team .box{
+    height: 650px;
+    
+}
+
+section .team{
+    display: flex;
+    justify-content: center;
+
+    margin-bottom: 30px;
+}
